@@ -15,9 +15,9 @@ include('includes/access.php');
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <meta name="description" content="PSU-ACC | Student Registration System" />
+  <meta name="description" content="Student Path | Student Admission System" />
   <meta name="author" content="Jaymart Padila" />
-  <title>PSU-ACC · Student Registration System</title>
+  <title>Student Path · Student Admission System</title>
 
   <!-- title icon -->
   <link rel="icon" href="../assets/img/logo-light.png" type="image/png" />
